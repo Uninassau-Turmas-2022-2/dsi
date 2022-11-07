@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">listaContatos2</string>
+    <string name="add_contact_name_hint">Nome</string>
+    <string name="add_contact_phone_hint">Telefone</string>
+    <string name="add_contact_btn_name">Adicionar</string>
+    <string name="item_contact_name">Nome: %s</string>
+    <string name="item_contact_phone">Telefone: %s</string>
 </resources>

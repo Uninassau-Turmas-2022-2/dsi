@@ -3,6 +3,7 @@ package br.imaginefree.listacontatos2
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.PersistableBundle
 import br.imaginefree.listacontatos2.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {

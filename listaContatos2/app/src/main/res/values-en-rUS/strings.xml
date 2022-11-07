@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">listaContatos2</string>
+    <string name="add_contact_name_hint">Name</string>
+    <string name="add_contact_phone_hint">Phone</string>
+    <string name="add_contact_btn_name">Add</string>
+    <string name="item_contact_name">Name: %s</string>
+    <string name="item_contact_phone">Phone: %s</string>
+</resources>

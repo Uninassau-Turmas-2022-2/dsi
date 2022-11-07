@@ -5,8 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout/activity_add_contact.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_adicionar_contato.xml" value="0.17300724637681159" />
-        <entry key="app/src/main/res/layout/activity_contact_list.xml" value="0.17300724637681159" />
+        <entry key="app/src/main/res/layout/activity_contact_list.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_contact.xml" value="0.67" />
       </map>
     </option>
   </component>
